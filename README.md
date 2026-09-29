@@ -142,3 +142,9 @@ If you found this helpful:
 * 📢 Share with others
 
 ---
+
+<h3> 𝑰.𝑨.𝑺𝒊𝒎𝒑𝒍𝒆𝒓 𝑩𝒂𝒔𝒊𝒄 𝑼𝒏𝒓𝒐𝒍𝒍𝒆𝒅 𝑳𝒊𝒔𝒕 </h3>
+<ul>
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Unrolled%20List_With_Struct.cpp">𝑰.𝑨.𝒂.𝑺𝒊𝒎𝒑𝒍𝒆𝒓 𝑩𝒂𝒔𝒊𝒄 𝑼𝒏𝒓𝒐𝒍𝒍𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑺𝒕𝒓𝒖𝒄𝒕 </a> 𝒊𝒏 <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/">𝑪++ 𝑫𝒂𝒕𝒂 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆 𝑹𝒆𝒑𝒐</a> </h3>
+<h3><a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/blob/main/Unrolled%20List_With_Class.cpp">𝑰.𝑨.𝒃.𝑺𝒊𝒎𝒑𝒍𝒆𝒓 𝑩𝒂𝒔𝒊𝒄 𝑼𝒏𝒓𝒐𝒍𝒍𝒆𝒅 𝑳𝒊𝒔𝒕 𝒘𝒊𝒕𝒉 𝑪𝒍𝒂𝒔𝒔 </a> 𝒊𝒏 <a href="https://github.com/AvinandanBose/CPLUSPLUS_DataStructure/">𝑪++ 𝑫𝒂𝒕𝒂 𝑺𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒆 𝑹𝒆𝒑𝒐</a> </h3>
+</ul>
